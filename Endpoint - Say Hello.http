@@ -1,0 +1,6 @@
+@Endpoint___Say_Hello_HostAddress = http://localhost:5053
+
+GET {{Endpoint___Say_Hello_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

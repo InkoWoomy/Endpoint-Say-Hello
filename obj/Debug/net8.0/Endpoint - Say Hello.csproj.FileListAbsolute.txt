@@ -1,0 +1,32 @@
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\bin\Debug\net8.0\appsettings.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\bin\Debug\net8.0\Endpoint - Say Hello.exe
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\bin\Debug\net8.0\Endpoint - Say Hello.deps.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\bin\Debug\net8.0\Endpoint - Say Hello.runtimeconfig.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\bin\Debug\net8.0\Endpoint - Say Hello.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\bin\Debug\net8.0\Endpoint - Say Hello.pdb
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\Endpoint - Say Hello.csproj.AssemblyReference.cache
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\Endpoint - Say Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\Endpoint - Say Hello.AssemblyInfoInputs.cache
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\Endpoint - Say Hello.AssemblyInfo.cs
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\Endpoint - Say Hello.csproj.CoreCompileInputs.cache
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\Endpoint - Say Hello.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\Endpoint - Say Hello.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\staticwebassets\msbuild.Endpoint - Say Hello.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\staticwebassets\msbuild.build.Endpoint - Say Hello.props
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Endpoint - Say Hello.props
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Endpoint - Say Hello.props
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\scopedcss\bundle\Endpoint - Say Hello.styles.css
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\Endpoint.46ACE38E.Up2Date
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\Endpoint - Say Hello.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\refint\Endpoint - Say Hello.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\Endpoint - Say Hello.pdb
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\Endpoint - Say Hello.genruntimeconfig.cache
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Say Hello\obj\Debug\net8.0\ref\Endpoint - Say Hello.dll
